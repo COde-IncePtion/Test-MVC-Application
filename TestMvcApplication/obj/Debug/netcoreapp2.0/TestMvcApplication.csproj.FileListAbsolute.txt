@@ -1,0 +1,11 @@
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/bin/Debug/netcoreapp2.0/TestMvcApplication.deps.json
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/bin/Debug/netcoreapp2.0/TestMvcApplication.runtimeconfig.json
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/bin/Debug/netcoreapp2.0/TestMvcApplication.runtimeconfig.dev.json
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/bin/Debug/netcoreapp2.0/TestMvcApplication.dll
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/bin/Debug/netcoreapp2.0/TestMvcApplication.pdb
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/obj/Debug/netcoreapp2.0/TestMvcApplication.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/obj/Debug/netcoreapp2.0/TestMvcApplication.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/obj/Debug/netcoreapp2.0/TestMvcApplication.AssemblyInfoInputs.cache
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/obj/Debug/netcoreapp2.0/TestMvcApplication.AssemblyInfo.cs
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/obj/Debug/netcoreapp2.0/TestMvcApplication.dll
+/Users/admin/Documents/ProjectStimulation/Test-MVC-Application/TestMvcApplication/obj/Debug/netcoreapp2.0/TestMvcApplication.pdb
