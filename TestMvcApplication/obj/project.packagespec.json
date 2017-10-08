@@ -22,6 +22,10 @@
           "target": "Package",
           "version": "2.0.0"
         },
+        "EntityFramework": {
+          "target": "Package",
+          "version": "6.2.0-beta1"
+        },
         "Microsoft.AspNetCore.All": {
           "target": "Package",
           "version": "2.0.0"
